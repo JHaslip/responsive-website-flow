@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+*** Still learning to use git properly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
